@@ -1,3 +1,7 @@
+Deployed Heroku Link
+# https://polar-eyrie-72601.herokuapp.com/
+
+
 Api's Used:
 1)https://corona.lmao.ninja/v3/covid-19/all
 2)https://corona.lmao.ninja/v3/covid-19/countries
